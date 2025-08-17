@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Taswiiq</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="c_pass">Confirm Password</string>
+    <string name="forget">Forgot Password</string>
+    <string name="remember">Remember Me</string>
+    <string name="to_register">Don\'t have an account? Register</string>
+    <string name="or_login">Or Login With</string>
+    <string name="register">Register</string>
+    <string name="to_login">Already have an account? Login</string>
+    <string name="or_register">Or Register With</string>
+    <string name="button_reset">Send Reset Email</string>
+    <string name="remember_login">Remember Your Password? Login</string>
+    <string name="login_failed">❌ Google Sign-In failed : </string>
+    <string name="login_null">❌ Google ID token is null </string>
+    <string name="emailpass_null">❗ Email and Password must not be empty</string>
+    <string name="all_fields">❗ All fields are required</string>
+    <string name="pass_not">❗ Passwords do not match</string>
+    <string name="signIn">❌ Google Sign-In: </string>
+    <string name="email_empty">❗ Email cannot be empty </string>
+    <string name="reset_failed">❌ Failed to send reset email </string>
+    <string name="email_notFound">❌ Email not found</string>
+    <string name="check_error">❌ Error checking email:  </string>
+    <string name="link_sent">✅ Reset link sent. Check your inbox.</string>
+    <string name="bottom_nav_home">الرئيسية</string>
+    <string name="bottom_nav_orders">الطلبات</string>
+    <string name="bottom_nav_messages">الرسائل</string>
+    <string name="bottom_nav_account">حسابي</string>
+    <string name="drawer_my_account">حسابي</string>
+    <string name="drawer_settings">الإعدادات</string>
+    <string name="drawer_logout">تسجيل الخروج</string>
+    <string name="drawer_support">Support</string>
+
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_empty_state">You have no notifications yet.</string>
+    <string name="notifications_user_not_logged_in">You need to be logged in to see notifications.</string>
+    <string name="content_description_sender_image">Sender profile image</string>
+    <string name="content_description_notification_icon">Notification type icon</string>
+
+    <string name="notification_new_order">You have a new order from %1$s.</string>
+    <string name="notification_order_accepted">%1$s has accepted your order.</string>
+    <string name="notification_order_shipped">%1$s has shipped your order.</string>
+    <string name="notification_new_message">You have a new message from %1$s.</string>
+    <string name="notification_new_follower" translatable="false">%1$s started following you.</string> <string name="notification_generic" translatable="false">New notification from %1$s.</string> <string name="yesterday">Yesterday</string>
+    <string name="date_now">Just now</string>
+    <string name="date_minutes_ago">%d minutes ago</string>
+    <string name="date_hours_ago">%d hours ago</string>
+    <string name="date_days_ago">%d days ago</string>
+    <string name="date_weeks_ago">%d weeks ago</string>
+    <string name="date_months_ago">%d months ago</string>
+    <string name="date_years_ago">%d years ago</string>
+
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_dark_mode_subtitle">Reduce glare and improve night viewing</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_subtitle">Change the application\'s language</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notifications_subtitle">Manage push notifications</string>
+    <string name="settings_account">Account</string>
+    <string name="settings_edit_profile">Edit Profile</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_logout_confirmation_title">Confirm Logout</string>
+    <string name="settings_logout_confirmation_message">Are you sure you want to log out?</string>
+    <string name="settings_logout_confirm">Logout</string>
+    <string name="settings_logout_cancel">Cancel</string>
+    <string name="settings_support">Support</string>
+    <string name="settings_help_support">Help &amp; Support</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="language_dialog_title">Select Language</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+
+
+    <string name="support_back_button">Back</string>
+    <string name="support_main_header">How can we help you?</string>
+    <string name="support_sub_header">Find answers to your questions below.</string>
+    <string name="support_faq_section_header">Frequently Asked Questions</string>
+    <string name="support_contact_section_header">Contact Us</string>
+    <string name="support_contact_card_text">If you can\'t find the answer you\'re looking for, please don\'t hesitate to reach out to our support team.</string>
+    <string name="support_contact_button">Contact Support</string>
+    <string name="support_email_subject">Support Request - Taswiiq App</string>
+    <string name="support_email_info_header">Please do not delete this information.</string>
+    <string name="support_contact_info_text">Including this technical information in your email helps us solve your issue faster.</string>
+    <string name="support_developer_info">Developed with ❤️ by %1$s</string>
+    <string name="developer_name">Your Name/Company</string>
+
+    <string name="support_faq_category_account">Account</string>
+    <string name="support_faq_category_orders">Orders &amp; Products</string>
+    <string name="support_faq_category_general">General</string>
+
+    <string name="support_q_edit_profile">How do I edit my profile?</string>
+    <string name="support_a_edit_profile">You can edit your profile information, such as your name, company name, and phone number, from the "Edit Profile" option in the Settings screen.</string>
+    <string name="support_q_forgot_password">I forgot my password. What should I do?</string>
+    <string name="support_a_forgot_password">On the login screen, click on "Forgot Password". You will receive an email with instructions to reset it.</string>
+
+    <string name="support_q_track_order">How can I track my order?</string>
+    <string name="support_a_track_order">You can see the status of all your orders (Pending, Accepted, Shipped, Completed) in the "Orders" tab.</string>
+    <string name="support_q_leave_review">How do I leave a review for a supplier?</string>
+    <string name="support_a_leave_review">After an order is marked as "Completed", you will find a "Leave a Review" button on the order details page.</string>
+
+    <string name="support_q_what_is_taswiiq">What is Taswiiq?</string>
+    <string name="support_a_what_is_taswiiq">Taswiiq is a B2B marketplace that connects wholesale suppliers with retailers, making it easy to discover products, negotiate prices, and manage orders.</string>
+    <string name="support_q_is_it_free">Is the app free to use?</string>
+    <string name="support_a_is_it_free">Yes, creating an account and Browse products is completely free for both suppliers and retailers.</string>
+</resources>

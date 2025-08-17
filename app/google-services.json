@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467959471475",
+    "project_id": "taswiiq-f2675",
+    "storage_bucket": "taswiiq-f2675.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467959471475:android:3f8272cea21d6dcefeb906",
+        "android_client_info": {
+          "package_name": "com.example.taswiiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqcBxVfL6nFGG7e6ByGv9e_w0Prp5zz7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
